@@ -88,19 +88,3 @@
 - [ ] **877D — Olya and Energy Drinks** · **2100** · [Problem](https://codeforces.com/problemset/problem/877/D)  
   Teaches BFS with range transitions and data-structure optimisation to avoid repeatedly scanning the same cells.
 
----
-
-## Completion log
-
-| Problem | Date solved | Solved independently? | Key takeaway / mistake |
-|---|---|---|---|
-| Add rows as you solve | | | |
-
-## Suggested GitHub setup
-
-1. Create a repository, for example `codeforces-graph-roadmap`.
-2. Upload this file as `README.md` (or rename it to `README.md` before uploading).
-3. For **clickable checkboxes and a progress counter**, create a GitHub Issue named `30-problem graph practice` and paste the task-list sections from this file into the issue body. Checkboxes in issue task lists can be toggled directly; checkboxes in a repository README are read-only and must be changed by editing the file.
-4. Keep solution code in folders such as `solutions/1433G/` and put your own observation/editorial notes in `notes/`.
-
-**Progress rule:** mark a problem complete only when you can explain the main observation, justify the algorithm, and re-implement it without copying.
